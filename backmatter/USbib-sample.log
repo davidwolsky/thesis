@@ -1,0 +1,45 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdftex 2016.1.24)  31 JAN 2016 12:22
+entering extended mode
+**C:/Users/Rib/Documents/masters/thesis/thesis_workingDir/backmatter/USbib-samp
+le.bib
+
+(C:/Users/Rib/Documents/masters/thesis/thesis_workingDir/backmatter/USbib-sampl
+e.bib
+Missing character: There is no ï in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+Missing character: There is no ½ in font cmr10!
+
+Overfull \hbox (17.41264pt too wide) in paragraph at lines 30--41
+[]\tenrm @ARTICLESMFrameworkKoziel, au-thor=Koziel, S. and Ban-dler, J.W. and M
+ad-sen, K., jour-nal=Microwave|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm A
+.\tenrm R
+.\kern-0.83334
+.etc.
+
+
+Overfull \hbox (14.52396pt too wide) in paragraph at lines 42--52
+\tenrm miza-tion Al-go-rithms for En-gi-neer-ing De-sign, year=2006, pages=1601
+-1604, doi=10.1109/MWSYM.2006.249642,|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm m
+.\tenrm i
+.\tenrm z
+.\tenrm a
+.\discretionary
+..\tenrm -
+.etc.
+
+)
+*
+! Emergency stop.
+<*> ...esis_workingDir/backmatter/USbib-sample.bib
+                                                  
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
