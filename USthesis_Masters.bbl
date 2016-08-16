@@ -1,0 +1,59 @@
+\begin{thebibliography}{3}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\providecommand{\selectlanguage}[1]{\relax}
+\edef\AFRstr{\string afrikaans}
+\ifx\AFRstr\languagename
+   \input{usbib.afr}%
+ \else
+   \input{usbib.eng}%
+\fi
+\newcommand{\Capitalize}[1]{\uppercase{#1}}
+\newcommand{\capitalize}[1]{\expandafter\Capitalize#1}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{Bandler} \emph{\bbletal{}}(2004)\citenamefont{Bandler},
+  \citenamefont{Cheng}, \citenamefont{Nikolova} \protect\BIBand{}
+  \citenamefont{Ismail}}]{ImplicitSMExploitParametersBandler}
+\bibnamefont{Bandler}, \bibfnamefont{J.}, \bibnamefont{Cheng},
+  \bibfnamefont{Q.}, \bibnamefont{Nikolova}, \bibfnamefont{N.}
+  \protect\BIBand{} \bibnamefont{Ismail}, \bibfnamefont{M.} (2004 Jan).
+\newblock Implicit space mapping optimization exploiting preassigned
+  parameters.
+\newblock \emph{Microwave Theory and Techniques, IEEE Transactions on},
+  \bblvol{}~52, \bblno{}~1, \bblpp{} 378--385.
+\newblock ISSN 0018-9480.
+
+\bibitem[{\citenamefont{Koziel}
+  \emph{\bbletal{}}(2006{\natexlab{\emph{a}}})\citenamefont{Koziel},
+  \citenamefont{Bandler} \protect\BIBand{}
+  \citenamefont{Madsen}}]{SMFrameworkKoziel}
+\bibnamefont{Koziel}, \bibfnamefont{S.}, \bibnamefont{Bandler},
+  \bibfnamefont{J.} \protect\BIBand{} \bibnamefont{Madsen}, \bibfnamefont{K.}
+  (2006 Oct{\natexlab{\emph{a}}}).
+\newblock A space-mapping framework for engineering optimization - theory and
+  implementation.
+\newblock \emph{Microwave Theory and Techniques, IEEE Transactions on},
+  \bblvol{}~54, \bblno{}~10, \bblpp{} 3721--3730.
+\newblock ISSN 0018-9480.
+
+\bibitem[{\citenamefont{Koziel}
+  \emph{\bbletal{}}(2006{\natexlab{\emph{b}}})\citenamefont{Koziel},
+  \citenamefont{Bandler} \protect\BIBand{}
+  \citenamefont{Madsen}}]{SMOptAlgEngDesignKoziel}
+\bibnamefont{Koziel}, \bibfnamefont{S.}, \bibnamefont{Bandler},
+  \bibfnamefont{J.} \protect\BIBand{} \bibnamefont{Madsen}, \bibfnamefont{K.}
+  (2006 June{\natexlab{\emph{b}}}).
+\newblock Space mapping optimization algorithms for engineering design.
+\newblock \capitalize\bblin{}: \emph{Microwave Symposium Digest, 2006. IEEE
+  MTT-S International}, \bblpp{} 1601--1604.
+\newblock ISSN 0149-645X.
+
+\end{thebibliography}

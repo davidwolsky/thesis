@@ -1,0 +1,35 @@
+\select@language {english}
+\contentsline {chapter}{Declaration}{i}
+\contentsline {chapter}{Abstract}{ii}
+\select@language {afrikaans}
+\contentsline {chapter}{Uittreksel}{iii}
+\select@language {english}
+\contentsline {chapter}{Acknowledgements}{iv}
+\contentsline {chapter}{Dedications}{v}
+\select@language {afrikaans}
+\select@language {english}
+\contentsline {chapter}{Contents}{vi}
+\contentsline {chapter}{List of Figures}{vii}
+\contentsline {chapter}{List of Tables}{viii}
+\contentsline {chapter}{Nomenclature}{ix}
+\contentsline {chapter}{\chapternumberline {1}Discrete Element Method}{1}
+\contentsline {section}{\numberline {1.1}Introduction}{1}
+\contentsline {chapter}{\chapternumberline {2}Literature review}{2}
+\contentsline {section}{\numberline {2.1}Optimisation}{2}
+\contentsline {section}{\numberline {2.2}Space mapping}{2}
+\contentsline {subsection}{\numberline {2.2.1}Implicit space mapping (ISM)}{3}
+\contentsline {subsection}{\numberline {2.2.2}Output space mapping (OSP)}{3}
+\contentsline {subsection}{\numberline {2.2.3}Space mapping interpolating surrogates (SMISs)}{3}
+\contentsline {subsection}{\numberline {2.2.4}Generalised space mapping (GSM)}{3}
+\contentsline {subsection}{\numberline {2.2.5}Frequency-dependent generalised space mapping (FDGSM)}{3}
+\contentsline {section}{\numberline {2.3}Actual paper summaries}{3}
+\contentsline {subsection}{\numberline {2.3.1}A Space-Mapping Framework for Engineering Optimisation - Theory and Implementation: Koziel, Bandler and Madsen \cite {SMFrameworkKoziel} }{3}
+\contentsline {chapter}{Appendices}{8}
+\contentsline {appendix}{\chapternumberline {A}Discrete Element Method Theory}{9}
+\contentsline {section}{\numberline {A.1}Ball elements}{9}
+\contentsline {subsection}{\numberline {A.1.1}Ball mass and inertia parameters}{9}
+\contentsline {appendix}{\chapternumberline {B}Activity Log}{10}
+\contentsline {section}{\numberline {B.1}Matlab}{10}
+\contentsline {subsection}{\numberline {B.1.1}Parameter sweep}{10}
+\contentsline {subsection}{\numberline {B.1.2}Tex}{10}
+\contentsline {chapter}{List of References}{11}
